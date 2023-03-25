@@ -1,0 +1,5 @@
+GET http://localhost:9000/read-value-by-name?variableName=GVL_CSharpTest.StructValue
+Content-Type: application/json
+
+
+

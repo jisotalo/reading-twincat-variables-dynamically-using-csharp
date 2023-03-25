@@ -1,0 +1,7 @@
+POST http://localhost:9000/write-string-value
+Content-Type: application/json
+
+"Writing test string value"
+
+
+
